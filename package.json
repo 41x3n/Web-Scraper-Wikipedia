@@ -1,20 +1,16 @@
 {
-  "name": "wikipedia_scrapper",
+  "name": "scrapper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/41x3n/wikipedia_scrapper.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/41x3n/wikipedia_scrapper/issues"
-  },
-  "homepage": "https://github.com/41x3n/wikipedia_scrapper#readme"
+  "dependencies": {
+    "json2csv": "^4.3.5",
+    "nightmare": "^3.0.1"
+  }
 }
