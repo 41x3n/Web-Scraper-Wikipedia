@@ -31,7 +31,7 @@ let dataset = [];
 
         console.log("<- Retrieving a list of links.");
 
-        let listArray = await page.$$('#mw-content-text > div > div:nth-child(21) > ul > li');
+        let listArray = await page.$$('#mw-content-text > div > div:nth-child(22) > ul > li');
 
 
         for(let link of listArray){
