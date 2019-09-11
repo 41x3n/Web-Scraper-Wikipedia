@@ -7,6 +7,10 @@ A scrapper written using javaScript which scraps information about terrorist inc
 
 ---
 
+### Data Set - [Terrorist Incidents Dataset (2015 - 2018)](https://www.kaggle.com/anindya41x3n/terrorist-incidents-dataset-2015-2018)
+
+---
+
 ### The website in action - [visu-terror-incidents.herokuapp.com](https://visu-terror-incidents.herokuapp.com/)
 
 ---
